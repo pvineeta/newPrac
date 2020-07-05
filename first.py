@@ -4,4 +4,4 @@ print (x)
 print (y)
 
 def my_func():
-    return pass
+    
